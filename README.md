@@ -6,7 +6,7 @@
 
 **Step 2:** [Fork this repo](https://github.com/headjoe3/M-E-A-N-I-N-G-B-O-T/fork) to create your own custom version of this bot
 
-**Step 3:** Edit the `[CONFIG]` block in `meaningbot_release.snippet.ars` to set up channel-specific constants.
+**Step 3:** Edit the `[CONFIG]` block in `meaningbot_release.snippet.ars` ([Release](https://github.com/headjoe3/M-E-A-N-I-N-G-B-O-T/tree/master/Release) folder) to set up channel-specific constants.
 
 `MOD_ROLE` should include a comma-separated list of the names of moderator roles in the channel.
 
@@ -14,7 +14,7 @@
 
 Once you have these set up, you can upload `meaningbot_release.snippet.ars` to any text channel as long as you have administrator privileges.
 
-**Step 4:** Customize the messages in each of the other files. For emojis, the `meaningbot_release.snippet.ars` file also includes a helper function `.getemojiid`.
+**Step 4:** Customize the messages in each of the other files inside of the [Release](https://github.com/headjoe3/M-E-A-N-I-N-G-B-O-T/tree/master/Release) folder. For emojis, the `meaningbot_release.snippet.ars` file also includes a helper function `.getemojiid`.
 
 **Step 5:** Make sure that the `[CONFIG]` blocks in each file matches your custom messages.
 
