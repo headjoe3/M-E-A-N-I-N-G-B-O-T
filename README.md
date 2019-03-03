@@ -20,4 +20,4 @@ Once you have these set up, you can upload `meaningbot_release.snippet.ars` to a
 
 In `meaningbot_release.snippet.ars`, the variables `COMMITMENT_RESPONSE_MESSAGE`, `UPDATE_RESPONSE_MESSAGE`, and `GETSOME_RESPONSE_MESSAGE` should be lists that include ONLY the response messages that you want shown to the user for each action.
 
-**Step 5:** Upload the files from this repository to any text channel
+**Step 5:** Upload your edited files to any text channel. Use `.commands` to view a list of commands that can be used with this bot.
