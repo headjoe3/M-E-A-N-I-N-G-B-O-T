@@ -1,5 +1,5 @@
 # M-E-A-N-I-N-G-B-O-T
-[Echo ARS bot](http://proxikal.github.io/Echo/Commands/)
+Accountability bot written in [Echo ARS](http://proxikal.github.io/Echo/Commands/) for Akira The Don's Discord Server.
 
 ### Installation
 **Step 1:** Invite Echo to your discord channel (linked above)
