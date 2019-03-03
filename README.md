@@ -16,7 +16,7 @@ Once you have these set up, you can upload `meaningbot_release.snippet.ars` to a
 
 **Step 4:** Customize the messages in each of the other files. For emojis, the `meaningbot_release.snippet.ars` file also includes a helper function `.getemojiid`.
 
-**Step 5:** Make sure that the `[CONFIG]` blocks in each file matches your messages.
+**Step 5:** Make sure that the `[CONFIG]` blocks in each file matches your custom messages.
 
 In `meaningbot_release.snippet.ars`, the variables `COMMITMENT_RESPONSE_MESSAGE`, `UPDATE_RESPONSE_MESSAGE`, and `GETSOME_RESPONSE_MESSAGE` should be lists that include ONLY the response messages that you want shown to the user for each action.
 
