@@ -4,7 +4,7 @@
 ### Installation
 **Step 1:** Invite Echo to your discord channel (linked above)
 
-**Step 2:** Fork this repo to create your own custom version of this bot
+**Step 2:** [Fork this repo](https://github.com/headjoe3/M-E-A-N-I-N-G-B-O-T/fork) to create your own custom version of this bot
 
 **Step 3:** Edit the `[CONFIG]` block in `meaningbot_release.snippet.ars` to set up channel-specific constants.
 
