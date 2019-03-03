@@ -1,0 +1,194 @@
+[INFO]
+Responses file for M E A N I N G B O T
+[/INFO]
+
+[CONFIG]
+// Server emojis. Use .getemojiid to get these values.
+GETAFTERIT_EMOJI=<:getafterit:479505436282847257>
+AKIRA_HAPPY_EMOJI=<:akira_happy:465667255087136799>
+JBP1_EMOJI=<:jbp1:460235087192129539>
+JBP6_EMOJI=<:jbp6:460235086986608640>
+FAYE_EMOJI=<:faye:460235086894333962>
+MEANINGWAVE_EMOJI=<:meaningwave:460233509265604638>
+[/CONFIG]
+
+/* Getsome responses */
+[#CONTINUE#]
+getsome0={init}
+{arslock}
+Get after it! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome1={init}
+{arslock}
+Stay on ＴＨＥ ＰＡＴＨ! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome2={init}
+{arslock}
+Slow and steady wins the race. What matters most is that you ＫＥＥＰ ＧＯＩＮＧ!
+
+[#CONTINUE#]
+getsome3={init}
+{arslock}
+Meaning is the wave! $AKIRA_HAPPY_EMOJI
+
+[#CONTINUE#]
+getsome4={init}
+{arslock}
+We are living in the peak of recorded human civilization, don’t waste the opportunity! Get after it! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome5={init}
+{arslock}
+Find the meaning, find the motivation. $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome6={init}
+{arslock}
+You’re gonna carry that weight.
+
+[#CONTINUE#]
+getsome7={init}
+{arslock}
+This is the Greatest Year to ever be alive in the History of Mankind
+
+[#CONTINUE#]
+getsome8={init}
+{arslock}
+Your ancestors sacrificed their entire lives to get you here, make them proud! $MEANINGWAVE_EMOJI
+
+[#CONTINUE#]
+getsome9={init}
+{arslock}
+I’m proud of you, I hope that you’re as proud as I am $AKIRA_HAPPY_EMOJI
+
+[#CONTINUE#]
+getsome10={init}
+{arslock}
+Confront the Dragon, Get the Gold, Share it with the Community $JBP1_EMOJI
+
+[#CONTINUE#]
+getsome11={init}
+{arslock}
+Clean up your room, then you’ll know what to do next $JBP1_EMOJI
+
+[#CONTINUE#]
+getsome12={init}
+{arslock}
+Bear your burden properly and live forthrightly in the world $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome13={init}
+{arslock}
+Pick up your damn suffering, and ＢＥＡＲ ＩＴ $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome14={init}
+{arslock}
+Perfect is the Enemy of the Good.
+
+[#CONTINUE#]
+getsome15={init}
+{arslock}
+Discipline = Freedom $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome16={init}
+{arslock}
+The best time to plant a tree was 20 years ago, the second best time is NOW
+
+[#CONTINUE#]
+getsome17={init}
+{arslock}
+What should you be doing right now to lessen the suffering in your life?
+
+[#CONTINUE#]
+getsome18={init}
+{arslock}
+We’re all rooting for you! You can do it!
+
+[#CONTINUE#]
+getsome19={init}
+{arslock}
+See you, space cowboy. $FAYE_EMOJI
+
+[#CONTINUE#]
+getsome20={init}
+{arslock}
+I'm not afraid of dying, I'm afraid not to have lived. $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome21={init}
+{arslock}
+When you start to doubt yourself the real world will eat you alive. $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome22={init}
+{arslock}
+Keep your blood clean, your body lean, and your mind sharp. $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome23={init}
+{arslock}
+Victory or defeat are largely out of my control, but putting up a good fight… putting up the kind of fight that makes the earth shake and the gods blush… this I can do. $FAYE_EMOJI
+
+[#CONTINUE#]
+getsome24={init}
+{arslock}
+Answer hopelessness with a defiant smile and a raised middle finger $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome25={init}
+{arslock}
+It's not where you begin, it's where you end $FAYE_EMOJI
+
+[#CONTINUE#]
+getsome26={init}
+{arslock}
+You are not rewarded for the comfortable choice. $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome27={init}
+{arslock}
+Small things, when compounded over time, tend to have big consequences. $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome28={init}
+{arslock}
+To live one day well is the same as to live ten thousand days well. To master twenty-four hours is to master your life. $JBP1_EMOJI $MEANINGWAVE_EMOJI
+
+[#CONTINUE#]
+getsome29={init}
+{arslock}
+When you arise in the morning, think of what a precious privilege it is to be alive. $JBP1_EMOJI
+
+[#CONTINUE#]
+getsome30={init}
+{arslock}
+Execute every action in life as it it were the last. $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome31={init}
+{arslock}
+Because a thing seems difficult for you, do not think it impossible for anyone to accomplish. $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome32={init}
+{arslock}
+Set your alarm clock and get out of bed when it goes off $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome33={init}
+{arslock}
+Go down swinging. And I’ll tell you: If you fight with all you have, more often than not, you won’t go down at all. You will win $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+getsome34={init}
+{arslock}
+It'll destroy you if you try to make it mean anything to anyone but yourself $JBP6_EMOJI
+
+[#CONTINUE#]
+getsome35={init}
+{arslock}
+Scar tissue is stronger than regular tissue. Realize the strength, move on $GETAFTERIT_EMOJI

@@ -1,0 +1,74 @@
+[INFO]
+Responses file for M E A N I N G B O T
+[/INFO]
+
+[CONFIG]
+// Server emojis. Use .getemojiid to get these values.
+GETAFTERIT_EMOJI=<:getafterit:479505436282847257>
+AKIRA_HAPPY_EMOJI=<:akira_happy:465667255087136799>
+JBP1_EMOJI=<:jbp1:460235087192129539>
+JBP6_EMOJI=<:jbp6:460235086986608640>
+FAYE_EMOJI=<:faye:460235086894333962>
+MEANINGWAVE_EMOJI=<:meaningwave:460233509265604638>
+[/CONFIG]
+
+/* Commit responses */
+[#CONTINUE#]
+commit0={init}
+{arslock}
+Noted! Now get after it! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit1={init}
+{arslock}
+Thanks, and good luck on the path! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit2={init}
+{arslock}
+Commitments are the first step, stick to The Path! $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit3={init}
+{arslock}
+When you do a little more than you can you get stronger, and we don’t know the upper limits to that $JBP6_EMOJI
+
+[#CONTINUE#]
+commit4={init}
+{arslock}
+Action is the next step to realize your goals $AKIRA_HAPPY_EMOJI
+
+[#CONTINUE#]
+commit5={init}
+{arslock}
+Get creative. Get aggressive. Get it done!  When you are on the road, STAY ON THE PATH $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit6={init}
+{arslock}
+Fear is normal. Every person feels fear at some point. Step aggressively toward to your fear – that is the step into bravery $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit7={init}
+{arslock}
+You have to do the work. You have to hold the line. You have to make it happen $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit8={init}
+{arslock}
+Don’t count on motivation. Count on Discipline $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit9={init}
+{arslock}
+Discipline Equals Freedom $GETAFTERIT_EMOJI
+
+[#CONTINUE#]
+commit10={init}
+{arslock}
+The average is the borderline that keeps mere men in their place. Those who step over the line are heroes by the very act. Go! $JBP1_EMOJI
+
+[#CONTINUE#]
+commit11={init}
+{arslock}
+Begin - to begin is half the work, let half still remain; again begin this, and you will have finished $GETAFTERIT_EMOJI
